@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+Pillow
+numpy
+scipy
+opencv-python-headless
+imageio
+imageio-ffmpeg
+moviepy
