@@ -4,7 +4,10 @@ This project was developed as my final-year project for the BSc Computer Science
 
 It investigates the trade-offs between image quality, style fidelity, flexibility, and computational efficiency across several state-of-the-art Neural Style Transfer (NST) approaches — going beyond textbook implementations by introducing enhanced architectures, multi-style transfer, and video stylization with temporal consistency.
 
-**Live Demo:** https://neural-style-transfer-graduation-25.streamlit.app/
+### Demos
+
+- 🌐 [Live Demo](https://neural-style-transfer-graduation-25.streamlit.app/)
+- 🎥 [Video Demo](https://youtu.be/pj1pgOlljCQ)
 
 **Full Report:** [`final report grad project.pdf`](final%20report%20grad%20project.pdf)
 
